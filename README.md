@@ -15,10 +15,10 @@ Welcome to the **WeatherApp** repository! This project is a simple, user-friendl
    ```bash
    git clone https://github.com/Sanskarv003/WeatherApp.git
 Navigate to the project directory:
-cd WeatherApp
+```cd WeatherApp```
 
 Open the index.html file in your browser to view the app:
-open index.html
+```open index.html```
 
 Use the search bar to enter a city name and view the weather data.
 
@@ -44,11 +44,11 @@ Contributions are always welcome! Here's how you can help:
 
 1. Fork the repository.
 2. Create a new branch:
-   git checkout -b feature-name
+   ```git checkout -b feature-name```
 3. Make your changes and commit them:
-   git commit -m 'Added a new feature'
+   ```git commit -m 'Added a new feature'```
 4. Push to your forked repository:
-   git push origin feature-name
+   ```git push origin feature-name```
 5. Open a pull request to this repository.
 
 License
